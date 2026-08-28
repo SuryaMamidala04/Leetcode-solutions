@@ -1,12 +1,14 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-        int max = 0;
-        for(int[] nums: accounts){
-            int total = Arrays.stream(nums).sum();
-            if(total>max){
-                max = total;
+        
+        int ps = 0;
+        for(int[] arr:accounts){
+            int cs = 0;
+            for(int i:arr){
+                cs+=i;
             }
+            ps =Math.max(cs,ps);
         }
-        return max;
+        return ps;
     }
 }
