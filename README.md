@@ -5,8 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
