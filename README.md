@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Matrix
 |  |
 | ------- |
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
