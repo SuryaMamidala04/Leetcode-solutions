@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
