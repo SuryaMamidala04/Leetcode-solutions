@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
