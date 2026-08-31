@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/shortest-unsorted-continuous-subarray">581. Shortest Unsorted Continuous Subarray</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, you need to find one <b>continuous subarray</b> such that if you only sort this subarray in non-decreasing order, then the whole array will be sorted in non-decreasing order.</p>
+<p>Given an integer array <code>nums</code>, you need to find one <b>continuous subarray</b> such that if you only sort this subarray in non-decreasing order, then the whole array will be sorted in non-decreasing order.</p>
 
 <p>Return <em>the shortest such subarray and output its length</em>.</p>
 
