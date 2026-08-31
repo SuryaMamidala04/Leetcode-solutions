@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2090-k-radius-subarray-averages](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Matrix
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2090-k-radius-subarray-averages](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 ## Counting
 |  |
 | ------- |
