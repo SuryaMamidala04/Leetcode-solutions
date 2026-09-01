@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1550-three-consecutive-odds](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
