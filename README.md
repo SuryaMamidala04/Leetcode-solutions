@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3838-weighted-word-mapping](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2942-find-words-containing-character](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3838-weighted-word-mapping](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
