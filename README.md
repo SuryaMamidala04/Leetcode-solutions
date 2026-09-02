@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2090-k-radius-subarray-averages](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Math
+|  |
+| ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
