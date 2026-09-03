@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3838-weighted-word-mapping](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
