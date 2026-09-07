@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
