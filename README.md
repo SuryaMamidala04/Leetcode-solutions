@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Greedy
 |  |
 | ------- |
