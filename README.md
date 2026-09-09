@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0567-permutation-in-string) |
