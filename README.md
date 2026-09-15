@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Greedy
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
