@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0682-baseball-game) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
