@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1446-consecutive-characters) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0649-dota2-senate](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Union-Find
 |  |
