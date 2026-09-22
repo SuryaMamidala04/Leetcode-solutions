@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2942-find-words-containing-character](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3838-weighted-word-mapping](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Union-Find
 |  |
 | ------- |
