@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -222,10 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0622-design-circular-queue](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0707-design-linked-list) |
