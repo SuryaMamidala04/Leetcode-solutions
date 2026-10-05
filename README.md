@@ -245,12 +245,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0206-reverse-linked-list](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/SuryaMamidala04/Leetcode-solutions/tree/master/0707-design-linked-list) |
