@@ -19,6 +19,6 @@ class Solution {
 
             pv = Math.max(pv,v);
         }
-        return pv>v?pv:v;
+        return pv;
     }
 }
